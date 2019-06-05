@@ -1,0 +1,14 @@
+#colophon {
+  background: url("images/footer-bg.svg") no-repeat;
+  background-size: cover;
+  margin-top: 3rem;
+
+  .site-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin: 0;
+    padding: 1rem 3rem;
+  }
+}
