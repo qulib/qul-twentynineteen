@@ -5,3 +5,13 @@
  Template:     twentynineteen
  Version:      1.0.0
 */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700,700i&display=swap");
+body {
+  font-family: "Open Sans", sans-serif; }
+
+a {
+  color: #1d70ad;
+  text-decoration: none; }
+  a:hover {
+    color: #b81237; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyIsInNhc3MvX3ZhcnMuc2NzcyIsInNhc3MvX2dsb2JhbC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Q0NNQztBQ0xELG1HQUFZO0FDRFo7RUFDRSxvQ0RHaUMsRUFBQTs7QUNBbkM7RUFDRSxjRFNpQjtFQ1JqQixxQkFBcUIsRUFBQTtFQUZ2QjtJQUtJLGNERGdCLEVBQUEiLCJmaWxlIjoic3R5bGUuY3NzIn0= */

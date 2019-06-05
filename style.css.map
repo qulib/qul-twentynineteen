@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"sass/style.scss",
+		"sass/_vars.scss",
+		"sass/_global.scss"
+	],
+	"names": [],
+	"mappings": "AAAA;;;;;;EAME;ACLF,OAAO,CAAC,2FAAI;ACDZ,AAAA,IAAI,CAAC;EACH,WAAW,EDGD,WAAW,EAAE,UAAU,GCFlC;;AAED,AAAA,CAAC,CAAC;EACA,KAAK,EDSK,OAAO;ECRjB,eAAe,EAAE,IAAI,GAKtB;EAPD,AAIE,CAJD,AAIE,MAAM,CAAC;IACN,KAAK,EDDI,OAAO,GCEjB"
+}
